@@ -1,0 +1,6 @@
+framework module Pods_TesseractOCR_Swift {
+  umbrella header "Pods-TesseractOCR_Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
